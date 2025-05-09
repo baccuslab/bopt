@@ -1,2 +1,2 @@
 # asimov
-Baccus lab cortical foundation model
+Baccus lab cortical  model
